@@ -4,4 +4,4 @@
 
 #Commit 1, September 25
 
-Unity Prjekt wurde angelegt sowie ein REpository auf Github.
+Unity Prjekt wurde angelegt sowie ein Repository auf Github.
