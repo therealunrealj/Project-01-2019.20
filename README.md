@@ -6,7 +6,6 @@ In diesem Projekt geht gibt es zwei Szenen zwischen denen man hin und her switch
 Zudem gibt es 2 Flächen. Wenn mann mit dem Cursor über das Obere Objekt hovert, ändert sich der Zähler.
 Wenn man Space drückt, ändert sich random die Farbe der unteren Fläche. 
 
-<<<<<<< HEAD
 #1_1Development Platform
 
 Diese Projekt wurde auf einem MacBook Pro (late 2015) mit der macOS Version 10.14.6 erstellt. 
