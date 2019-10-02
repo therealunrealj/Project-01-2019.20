@@ -29,13 +29,14 @@ ein weiteres Canvas mit einem Textelement welches anzeigt wie oft man mit der Ma
 
 #1_1Screenshots
 
-/Users/jorgen/Documents/HTL/meerwald-stadler/Project-01-2019.20/Project-01-2019.20/Bildschirmfoto 2019-10-02 um 12.57.40.png
+<img src="./Images/Bildschirmfoto 2019-10-02 um 12.57.40.png">
 
-/Users/jorgen/Documents/HTL/meerwald-stadler/Project-01-2019.20/Project-01-2019.20/Bildschirmfoto 2019-10-02 um 12.58.06.png
+<img src="./Images/Bildschirmfoto 2019-10-02 um 12.58.06.png">
 
-/Users/jorgen/Documents/HTL/meerwald-stadler/Project-01-2019.20/Project-01-2019.20/Bildschirmfoto 2019-10-02 um 12.59.20.png
+<img src="./Images/Bildschirmfoto 2019-10-02 um 12.59.20.png">
 
-/Users/jorgen/Documents/HTL/meerwald-stadler/Project-01-2019.20/Project-01-2019.20/Bildschirmfoto 2019-10-02 um 12.59.52.png
+<img src="./Images/Bildschirmfoto 2019-10-02 um 12.59.52.png">
+
 
 
 #2_0Commits
